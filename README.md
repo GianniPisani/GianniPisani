@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hola 👋, Soy Gian Pisani
 
-<!--
-**GianniPisani/GianniPisani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Data Analyst | Python - Power BI - SQL Server - Excel
+Soy un economista especializado en el análisis de datos, con pasión por convertir números en decisiones estratégicas.
 
-Here are some ideas to get you started:
+Transformo datos en insights que permiten optimizar procesos, reducir incertidumbre y potenciar la toma de decisiones. Utilizando herramientas como Python, SQL, Power BI y Excel para desarrollar soluciones basadas en datos que impulsan resultados concretos. Enfocándome en el diseño e implementación de proyectos que integran programación, automatización y visualización de información clave. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Busco seguir creciendo en entornos donde la analítica sea el motor del cambio, aportando mi capacidad técnica y mirada estratégica. Siempre abierto a colaborar en proyectos que conecten datos con impacto.
+
+
+## 🚀 Proyectos Destacados:
+
+
+
+
+## 💡 Una frase que me identifica es:
+"La simplicidad es la máxima sofisticación."
+— Leonardo da Vinci
+
+
+## 📫 Conectemos
+- [Linkedin](www.linkedin.com/in/gian-pisani-arntsen-1b404622a)
+- gianpisani01@gmail.com
