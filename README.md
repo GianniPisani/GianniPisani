@@ -10,8 +10,8 @@ Busco seguir creciendo en entornos donde la analítica sea el motor del cambio, 
 
 
 ## 🚀 Proyectos Destacados:
-
-
+[Proyecto-Final-Viticole](https://github.com/GianniPisani/Proyecto-Final-Viticole)
+[COVID-19_BIOGENESYS](https://github.com/GianniPisani/COVID-19_BIOGENESYS)
 
 
 ## 💡 Una frase que me identifica es:
