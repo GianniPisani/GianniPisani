@@ -1,6 +1,7 @@
 # Hola 👋, Soy Gian Pisani
 
 🎯 Data Analyst | Python - Power BI - SQL Server - Excel
+
 Soy un economista especializado en el análisis de datos, con pasión por convertir números en decisiones estratégicas.
 
 Transformo datos en insights que permiten optimizar procesos, reducir incertidumbre y potenciar la toma de decisiones. Utilizando herramientas como Python, SQL, Power BI y Excel para desarrollar soluciones basadas en datos que impulsan resultados concretos. Enfocándome en el diseño e implementación de proyectos que integran programación, automatización y visualización de información clave. 
